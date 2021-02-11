@@ -10,13 +10,13 @@ namespace practica3
 
 //Crear un programa que muestre las letras de la Z (mayúscula) a la A (mayúscula, descendiendo).
           
-           /* char a;
+            char a;
             
             for(a='Z'; a>='A'; a--)
             { 
             Console.WriteLine(a);
             }
-            */
+            
 
 //Crea un programa que escriba en pantalla los números del 1 al 10, usando "do..while". 
          
